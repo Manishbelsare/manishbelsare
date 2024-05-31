@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Manish Kumar Belsare</h1>
-<h3 align="center">A passionate frontend developer frPassionate Aspiring Data Analyst | Analytical Mindset, Strong Problem-Solving | Excel, SQL, Python and Power BI Enthusiast | Seeking Opportunities to Transform Data into Insights.om India</h3>
+<h3 align="center">Passionate Aspiring Data Analyst | Analytical Mindset, Strong Problem-Solving | Excel, SQL, Python and Power BI Enthusiast | Seeking Opportunities to Transform Data into Insights.om India</h3>
 
 - 🌱 I’m currently learning **Data Visualization, Data Cleaning, MATLAB, R, Python, SQL, NoSQL, Machine Learning, Linear Algebra and Calculus**
 
